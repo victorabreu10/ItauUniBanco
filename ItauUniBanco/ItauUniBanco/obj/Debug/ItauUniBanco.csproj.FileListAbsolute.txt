@@ -1,0 +1,7 @@
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\bin\Debug\ItauUniBanco.exe.config
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\bin\Debug\ItauUniBanco.exe
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\bin\Debug\ItauUniBanco.pdb
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\obj\Debug\ItauUniBanco.csproj.AssemblyReference.cache
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\obj\Debug\ItauUniBanco.csproj.CoreCompileInputs.cache
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\obj\Debug\ItauUniBanco.exe
+C:\src\Exercicios\PooExamples\ItauUniBanco\ItauUniBanco\obj\Debug\ItauUniBanco.pdb
